@@ -46,5 +46,30 @@ Circuit Variables
         - Current
         - Resistance
 
+Most simple devices can be modeled as a resistor.  What happens when you pass too much current through a given resistor.  You release the magic smoke!  That's a BAD THING.  How can we protect against this?
+Talk about fuses with respect to current.  What's the purpose of a fuse?  [DEMO]
+
+Talk about drawing circuits.  And how to hook them up on a breadboard.  Have them create a simple circuit and measure circuit variables.  Voltage, Current, Resistance.  Talk about how to measure using the DMM.
+
+Measure resistance of a given device (motor or lightbulb).
+
+Introduce parallel and series resistance.  Have them setup some resistors in parallel and series and measure outcomes.  What happens?  Introduce equations.
+
+Let's talk about some other circuit rules:
+- KVL
+    - The some of the voltages in a loop is 0.  Or voltage rise equals voltage drop in a loop.
+    - What's a loop?
+    - Identify loops on the board.
+    - Validate with simple circuit, DMM.
+
+- KCL
+    - The sum of the currents at a node is 0.  Or current entering equals current leaving a ndoe.
+    - What's a node.
+    - Identify nodes on the board.
+    - Validate with simple circuit, DMM.
+
+- AC vs DC
+
+
 ## Soldering
 Electronic Bagpipes
