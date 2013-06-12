@@ -8,10 +8,11 @@ How's Summer Seminar so far?  Getting a feel for what life is like as a cadet?  
 
 Set the tone: Relax.  I'm not assessing you.  My goal is that you have fun, learn some cool stuff, and leave her excited to learn more about Computer Engineering.  
 On that note: YouTube videos with electrical engineer that hurts himself.  
-Electricity Can Kill You - https://www.youtube.com/watch?v=DQJ8JX17J58  
-ESD - https://www.youtube.com/watch?v=RtlYi1yLTVQ  
-Proper Wiring Connections - https://www.youtube.com/watch?NR=1&v=vRwIrbK8KDI&feature=endscreen  
-Capacitors - https://www.youtube.com/watch?v=rr7bPmGTQUk  
+
+Electricity Can Kill You - https://www.youtube.com/watch?v=DQJ8JX17J58
+ESD - https://www.youtube.com/watch?v=RtlYi1yLTVQ
+Proper Wiring Connections - https://www.youtube.com/watch?NR=1&v=vRwIrbK8KDI&feature=endscreen
+Capacitors - https://www.youtube.com/watch?v=rr7bPmGTQUk
 
 ## Intros
 
