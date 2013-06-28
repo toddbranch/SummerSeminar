@@ -1,4 +1,4 @@
-# Summer Seminar
+# Intro to Digital Design
 
 ## Welcome
 
@@ -7,12 +7,12 @@ Welcome to Intro to Digital Design.
 How's Summer Seminar so far?  Getting a feel for what life is like as a cadet?  Still want to come here?  My job today is to give you a little taste of academics at USAFA and what we do in the Electrical and Computer Engineering Department.
 
 Set the tone: Relax.  I'm not assessing you.  My goal is that you have fun, learn some cool stuff, and leave her excited to learn more about Computer Engineering.  
-On that note: YouTube videos with electrical engineer that hurts himself.  
+On that note: YouTube videos with electrical engineer that hurts himself.
 
-Electricity Can Kill You - https://www.youtube.com/watch?v=DQJ8JX17J58
-ESD - https://www.youtube.com/watch?v=RtlYi1yLTVQ
-Proper Wiring Connections - https://www.youtube.com/watch?NR=1&v=vRwIrbK8KDI&feature=endscreen
-Capacitors - https://www.youtube.com/watch?v=rr7bPmGTQUk
+- Electricity Can Kill You - https://www.youtube.com/watch?v=DQJ8JX17J58
+- ESD - https://www.youtube.com/watch?v=RtlYi1yLTVQ
+- Proper Wiring Connections - https://www.youtube.com/watch?NR=1&v=vRwIrbK8KDI&feature=endscreen
+- Capacitors - https://www.youtube.com/watch?v=rr7bPmGTQUk
 
 ## Intros
 
@@ -26,7 +26,8 @@ Why I think this stuff is cool.
 
 We're not going to take the entire time - only 3 hours.  And I'll do my best to keep it interesting / engaging.
 
-Block structure:  
+Block structure:
+
 - General Background Knowledge
 - Digital Design
 - Intro to Microcontrollers and Embedded Programming

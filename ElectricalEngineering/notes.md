@@ -1,4 +1,4 @@
-# Summer Seminar
+# Intro to Electrical Engineering
 
 ## Welcome
 
