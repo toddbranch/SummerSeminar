@@ -37,6 +37,10 @@
     - Storage
     - Encryption
     - Digital Logic
+- Notion of abstraction
+
+![EE Hierarchy](EE_hierarchy.png)
+
 - AND / OR / XOR
   - Truth tables as explanation of behavior
 - Mystery chip exercise!
