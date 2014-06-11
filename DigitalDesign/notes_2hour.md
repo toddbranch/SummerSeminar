@@ -25,7 +25,11 @@
 (1 hour for classroom stuff)
 
 - Welcome to EE!
+  - What we do
 - About me!
+  - Ask me questions if you want!
+- Around the room
+  - Name / hometown
 - Analog vs Digital
   - Discrete vs continuous
   - Lose some information
